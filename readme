@@ -2,3 +2,5 @@ text on master before branching
 quick update
 text on branch after branching
 add something before rebase
+
+fix commit message
